@@ -13,4 +13,4 @@ Neste jogo, você embarca em uma jornada onde cada escolha pode mudar o rumo da 
 
 # 📜 Como Jogar
 
-Execute o arquivo [jogo](/jogoV2-1.exe)
+Execute o arquivo jogoV2-1.exe
